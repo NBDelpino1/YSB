@@ -1,0 +1,60 @@
+
+<svg width="289px" height="179px" viewBox="0 0 289 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(1.000000, 1.000000)">
+            <path d="M60,35.3 L60,28.7 L55,28.7 C54.7,26.5 54.1,24.4 53.3,22.4 L57.6,19.9 L54.3,14.1 L50,16.6 C48.7,14.9 47.1,13.3 45.4,12 L47.9,7.7 L42.1,4.4 L39.6,8.7 C37.6,7.9 35.5,7.3 33.3,7 L33.3,2 L26.6,2 L26.6,7 C24.4,7.3 22.3,7.9 20.3,8.7 L17.9,4.4 L12.1,7.7 L14.6,12 C12.9,13.3 11.3,14.9 10,16.6 L5.7,14.1 L2.4,19.9 L6.7,22.4 C5.9,24.4 5.3,26.5 5,28.7 L0,28.7 L0,35.3 L5,35.3 C5.3,37.5 5.9,39.6 6.7,41.6 L2.4,44.1 L5.7,49.9 L10,47.4 C11.3,49.1 12.9,50.7 14.6,52 L12.1,56.3 L17.9,59.6 L20.4,55.3 C22.4,56.1 24.5,56.7 26.7,57 L26.7,62 L33.3,62 L33.3,57 C35.5,56.7 37.6,56.1 39.6,55.3 L42.1,59.6 L47.9,56.3 L45.4,52 C47.1,50.7 48.7,49.1 50,47.4 L54.3,49.9 L57.6,44.1 L53.3,41.6 C54.1,39.6 54.7,37.5 55,35.3 L60,35.3 Z M30,49.6 C20.5,49.6 12.8,41.9 12.8,32.4 C12.8,22.9 20.5,15.2 30,15.2 C39.5,15.2 47.2,22.9 47.2,32.4 C47.2,41.9 39.5,49.6 30,49.6 Z M30,43.2 C24.2,43.2 19.5,38.5 19.5,32.7 C19.5,26.9 24.2,22.2 30,22.2 C35.8,22.2 40.5,26.9 40.5,32.7 C40.5,38.5 35.8,43.2 30,43.2 Z" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M277.1,177.2 L263.6,177.2 C258.3,177.2 254,172.9 254,167.6 L254,131.6 C254,126.3 258.3,122 263.6,122 L277.1,122 C282.4,122 286.7,126.3 286.7,131.6 L286.7,167.6 C286.7,172.9 282.4,177.2 277.1,177.2" id="Shape" stroke="#FFFFFF" stroke-width="1.023" fill-rule="nonzero"></path>
+            <path d="M274,133.5 C274,135.5 272.4,137 270.5,137 C268.5,137 267,135.4 267,133.5 C267,131.5 268.6,130 270.5,130 C272.4,130 274,131.6 274,133.5" id="Shape" stroke="#FFFFFF" stroke-width="1.023" fill-rule="nonzero"></path>
+            <path d="M110,45 L163.6,45" id="Shape" stroke="#FFFFFF" stroke-width="1.023" fill-rule="nonzero"></path>
+            <path d="M110,54 L163.6,54" id="Shape" stroke="#FFFFFF" stroke-width="1.023" fill-rule="nonzero"></path>
+            <path d="M110,63 L163.6,63" id="Shape" stroke="#FFFFFF" stroke-width="1.023" fill-rule="nonzero"></path>
+            <polygon id="Shape" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" points="177.7 170 122.2 170 122 150 177.9 150"></polygon>
+            <path d="M249.8,145.3 C249.8,146.4 249.4,147.6 248.5,148.4 C247.6,149.3 246.5,149.7 245.4,149.7 L54.4,149.7 C53.3,149.7 52.1,149.3 51.3,148.4 C50.4,147.5 50,146.4 50,145.3 L50,132 L249.9,132 L249.9,145.3 L249.8,145.3 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M249.8,4.4 C249.8,3.3 249.4,2.1 248.5,1.3 C247.6,0.4 246.5,0 245.4,0 L54.4,0 C53.3,0 52.1,0.4 51.3,1.3 C50.4,2.2 50,3.3 50,4.4 L50,132.4 L249.9,132.4 L249.9,4.4 L249.8,4.4 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M60,10 L239.9,10 C239.9,25.3333333 239.9,33 239.9,33 C239.9,33 239.9,53.7727865 239.9,95.3183594 L239.9,122.5 L60,122.5 L60,10 Z" id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="66" y="22" width="163" height="10"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="189" y="107" width="8.2" height="8.2"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="176" y="107" width="8.2" height="8.2"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="164" y="107" width="8.2" height="8.2"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="151" y="107" width="8.2" height="8.2"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="139" y="107" width="8.2" height="8.2"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="126" y="107" width="8.2" height="8.2"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="114" y="107" width="8.2" height="8.2"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="101" y="107" width="8.2" height="8.2"></rect>
+            <path d="M125,94.4 C125,96.3 126.6,97.9 128.5,97.9 L165.7,97.9 L183.9,108.8 L183.9,97.9 L192.8,97.9 C194.7,97.9 196.3,96.3 196.3,94.4 L196.3,52.5 C196.3,50.6 194.7,49 192.8,49 C181.777778,49 174.511111,49 171,49 C169.1,49 171,81 171,83 C171,85 125,78.3333333 125,86 C125,87.8666667 125,90.6666667 125,94.4 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.023" fill-rule="nonzero"></path>
+            <path d="M170.8,36.6 L170.8,79.5 C170.8,81.5 169.2,83.1 167.2,83.1 L129.1,83.1 L110.5,94.2 L110.5,83.1 L104.6,83.1 C102.6,83.1 101,81.5 101,79.5 L101,36.6 C101,34.6 102.6,33 104.6,33 L167.1,33 C169.2,33 170.8,34.6 170.8,36.6 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="108" y="64" width="55.2" height="4.1"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="108" y="56" width="55.2" height="4.1"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linejoin="round" fill-rule="nonzero" x="108" y="48" width="55.2" height="4.1"></rect>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linejoin="round" fill-rule="nonzero" x="108" y="40" width="55.2" height="4.1"></rect>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="1.023" stroke-linejoin="round" fill-rule="nonzero" cx="86.3" cy="27.3" r="2.3"></circle>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" cx="79.3" cy="27.3" r="2.3"></circle>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="1.023" stroke-linejoin="round" fill-rule="nonzero" cx="71.3" cy="27.3" r="2.3"></circle>
+            <path d="M104,27 L192.9,27" id="Shape" stroke="#FFFFFF" stroke-width="1.023" stroke-linejoin="round"></path>
+            <polygon id="Shape" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" points="222.7 104.6 209.3 96 209 111.9 213.2 107.1 216.2 112.6 219.3 110.9 216.4 105.4"></polygon>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="101" y="170" width="96.7" height="7.2"></rect>
+            <polygon id="Shape" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" points="223 33 223 94.9 265.2 94.9 285 106.6 285 33"></polygon>
+            <text id="&lt;" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" font-family="Helvetica" font-size="36.4455" font-weight="normal" fill="#000000">
+                <tspan x="231" y="75">&lt;</tspan>
+            </text>
+            <text id="i" stroke="#FFFFFF" stroke-width="1.023" font-family="Helvetica" font-size="36.4455" font-weight="normal" fill="#000000">
+                <tspan x="249" y="75">i</tspan>
+            </text>
+            <text id="&gt;" stroke="#FFFFFF" stroke-width="1.023" stroke-linecap="round" stroke-linejoin="round" font-family="Helvetica" font-size="36.4455" font-weight="normal" fill="#000000">
+                <tspan x="258" y="75">&gt;</tspan>
+            </text>
+            <path d="M267.680879,25.9808793 C265.280879,25.5808793 262.980879,24.4808793 261.080879,22.5808793 C255.880879,17.5808793 255.580879,9.38087934 260.580879,4.08087934 C265.580879,-1.11912066 273.780879,-1.41912066 279.080879,3.58087934 C284.280879,8.58087934 284.580879,16.7808793 279.580879,22.0808793 C277.780879,23.9808793 275.480879,25.2808793 273.180879,25.7808793 L270.680879,31.5808793 L267.680879,25.9808793 Z" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M277.3,9 L264,9" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M277.3,9 L264,9" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M277.3,13 L264,13" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M277.3,13 L264,13" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M277.4,17 L269,17" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M277.3,17 L264,17" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <path d="M256,114 L287.3,114" id="Shape" stroke="#FFFFFF" stroke-dasharray="4"></path>
+            <circle id="XMLID_5_" fill-rule="nonzero" cx="242.7" cy="173.7" r="2.7"></circle>
+        </g>
+    </g>
+</svg>
